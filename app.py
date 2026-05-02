@@ -1,7 +1,7 @@
 import streamlit as st
 import matplotlib.pyplot as plt
 
-from dp import *
+from db import *
 from utils import *
 
 
