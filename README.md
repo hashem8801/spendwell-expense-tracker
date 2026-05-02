@@ -6,7 +6,7 @@ SpendWell is a Streamlit-based web application designed to help users track thei
 
 ## 🚀 Live Demo
 
-👉 https://YOUR-APP-LINK.streamlit.app](https://spendwell-expense-tracker-jybzew6sayskzkoxd7x6eb.streamlit.app
+👉 [https://YOUR-APP-LINK.streamlit.app](https://spendwell-expense-tracker-jybzew6sayskzkoxd7x6eb.streamlit.app](https://spendwell-expense-tracker-jybzew6sayskzkoxd7x6eb.streamlit.app)
 
 ---
 
@@ -137,7 +137,4 @@ The app includes a data analytics dashboard that:
 ## 👤 Author
 
 Hashim Fadhel AlSaba
-Computer Engineering Student – Kuwait University
-
-Hashim Fadhel Alsaba
 Computer Engineering Student – Kuwait University
