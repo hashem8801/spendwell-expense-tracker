@@ -109,13 +109,6 @@ The app includes a data analytics dashboard that:
 * Calculates key financial metrics
 * Provides insight into user behavior
 
----
-
-## 🎥 Demo / Walkthrough
-
-👉 (Add your video link here)
-
----
 
 ## 🧠 What I Built Without AI
 
