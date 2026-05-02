@@ -90,13 +90,13 @@ streamlit run app.py
 ## 🤖 AI Usage
 
 AI tools (ChatGPT) were used to:
+:
 
-* Assist in structuring the project (modular design)
-* Generate and refine parts of the UI logic
-* Help implement data visualization and insights
-* Debug errors and improve code clarity
+Help create and improve charts using matplotlib
+Assign and manage colors for different categories
+Fix some bugs and improve code structure
 
-All logic was reviewed, tested, and understood before final implementation.
+This made the app more user-friendly and easier to understand, especially in terms of visuals.
 
 ---
 
